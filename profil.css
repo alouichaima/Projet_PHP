@@ -1,0 +1,21 @@
+.container {
+    margin-top: 50px;
+}
+
+.table-user-information td {
+    border-top: none;
+}
+
+.btn-block {
+    margin-top: 20px;
+}
+
+.table-bordered {
+    border: 2px solid rgb(2, 2, 20);
+}
+
+.rounded-circle {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
